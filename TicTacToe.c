@@ -198,7 +198,7 @@ int main(int argc, char* argv[]){
       Player1("Player 1 ");
     }
     else {
-      Player2("Player 2! ");
+      Player2("Player 2 ");
     }
     printf("wins!\n");
   }
